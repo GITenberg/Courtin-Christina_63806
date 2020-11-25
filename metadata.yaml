@@ -1,0 +1,24 @@
+_repo: Courtin-Christina_63806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, J. J. (John Joy)
+    alias: Bell, John Joy
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '3182'
+    url: http://www.gutenberg.org/2009/agents/3182
+    wikipedia: http://en.wikipedia.org/wiki/John_Joy_Bell
+description: ''
+gutenberg_issued: '2020-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Courtin' Christina
+url: http://www.gutenberg.org/ebooks/63806
